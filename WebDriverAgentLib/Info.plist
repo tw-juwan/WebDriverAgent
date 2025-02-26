@@ -15,12 +15,12 @@
     <key>CFBundlePackageType</key>
     <string>FMWK</string>
     <key>CFBundleShortVersionString</key>
-    <string>9.6.1</string>
+    <string>9.6.1</string>              <!-- HEAD 쪽 버전 유지 -->
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleVersion</key>
-    <string>9.6.1</string>
+    <string>9.6.1</string>              <!-- HEAD 쪽 버전 유지 -->
     <key>NSPrincipalClass</key>
-    <string/>
+    <string/></string>
   </dict>
 </plist>
